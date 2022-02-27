@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The commission of array arraigned and condemned: or, a declaration of the illegalitie of the said commission: shewing, that it is destructive to the late flourishing Kingdome of England, and the subjects, especially the Commons thereof; and to introduce an arbitrary and tyrannicall government. Published to the view of the world, principally of Great Britaine, and the Protestant party of Ireland. Commended to the view and confideration of the high and Hon: Court of Parliament, (the worthies of our English Israel.)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80240</idno>
+            <idno type="STC">Wing C5552</idno>
+            <idno type="STC">Thomason E118_8</idno>
+            <idno type="STC">ESTC R19365</idno>
+            <idno type="EEBO-CITATION">99860650</idno>
+            <idno type="PROQUEST">99860650</idno>
+            <idno type="VID">156084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156084)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The commission of array arraigned and condemned: or, a declaration of the illegalitie of the said commission: shewing, that it is destructive to the late flourishing Kingdome of England, and the subjects, especially the Commons thereof; and to introduce an arbitrary and tyrannicall government. Published to the view of the world, principally of Great Britaine, and the Protestant party of Ireland. Commended to the view and confideration of the high and Hon: Court of Parliament, (the worthies of our English Israel.)</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 19. Printed by T.F. for H.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commissions of array --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156084:1" rendition="simple:additions"/>
+            <p>THE Commiſsion of Array ARRAIGNED AND CONDEMNED: OR, A DECLARATION of the illegalitie of the ſaid <hi>Commiſſion:</hi> SHEWING, That it is Deſtructive to the late flou<g ref="char:EOLhyphen"/>riſhing Kingdome of <hi>England,</hi> and the Subjects, eſpecially the COMMONS thereof; and to introduce an Arbitrary and Tyrannicall Government.</p>
+            <p>Publiſhed to the view of the World, prin<g ref="char:EOLhyphen"/>cipally of <hi>Great Britaine,</hi> and the Proteſtant Party of <hi>Ireland.</hi>
+            </p>
+            <p>Commended to the view and conſideration of the high and Hon: Court of PARLIAMENT, <hi>(the Worthies of our Engliſh Iſrael.)</hi>
+            </p>
+            <p>LONDON, <hi>Septemb.</hi> 19. Printed by T.F. for H.H. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:156084:2"/>
+            <head>The Commiſsion of <hi>Array Arraigned, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is notoriouſly knowne to all the World, eſpecially of this (whilome) flouriſhing King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> (our deare native ſoyle) that Matter be<g ref="char:EOLhyphen"/>ing more than much amiſſe in Church and Common-wealth, and thoſe occaſioned by the un<g ref="char:EOLhyphen"/>happy and long intermiſſion and want of Parliaments, this preſent Parliament, being by divine providence called and convened, hath from its beginning endeavoured with in<g ref="char:EOLhyphen"/>defatigable labour and paines to rectifie matters in Reli<g ref="char:EOLhyphen"/>gion and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he State; and amongſt many other things their endeavour and ſeverall Ordinances to ſettle the <hi>Militia</hi> in the ſeverall Shires and Counties of the Kingdome, for the defence of the ſame. Now it is alſo as notoriouſly knowne, that his Majeſty ſuffering himſelfe to be ſeduced and miſſe-led by evill and wicked Councell, who for their owne ends, to croſſe and thwart the Parliaments good, re<g ref="char:EOLhyphen"/>ligious, and wholeſome proceedings, have cauſed a ſtrange and unparalleld thing, called, <hi>A Commiſſion of Array,</hi> to be ſealed and given unto certaine Noble men and others of his evill Counſell, moſt properly denominated by both
+<pb n="3" facs="tcp:156084:2"/>the moſt Honourable Houſes of the Lords and Commons of <hi>Parliament, the Malignant-party:</hi> And amongſt other the ſaid moſt offenſive and deſtructive <hi>Commiſſion of Ar<g ref="char:EOLhyphen"/>ray</hi> is given and granted to <hi>William Marqueſſe of Hert<g ref="char:EOLhyphen"/>ford.</hi> And he endeavoured to put the ſaid Commiſſion in execution in <hi>Sommerſetſhire, Wiltſhire,</hi> and other places, untill he was driven away by the Countrey and Militia, and other Parliament Forces, he fled from <hi>Wells</hi> to <hi>Sher<g ref="char:EOLhyphen"/>borne Castle</hi> &amp;c. The Copie of which the ſaid Marqueſſe his Commiſſion, as Lieutenant Generall for many Coun<g ref="char:EOLhyphen"/>ties, being printed and publiſhed to the view of all the World, is thus over-viewed, Arraigned, condemned, and confuted, as followeth:</p>
+            <q>
+               <p>CHARLES <hi>by the Grace of God, &amp;c. To our truſty and well-beloved,</hi> William <hi>Marqueſſe of Hertford, &amp;c.</hi>
+               </p>
+            </q>
+            <p>It is wondered how his Majeſty, were he not ſeduced by wicked Counſell, can terme Him <hi>Truſty and welbelo<g ref="char:EOLhyphen"/>ved,</hi> that to gaine Honour hath been ſo untruſtie, and an Apoſtate to his firſt vowes and Votes in this preſent Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>And it followes, <hi>Whereas there is now in and neere the City of</hi> London, <hi>great Forces raiſing, and Money raiſing by order of our two Houſes of Parliament, &amp;c. Wee have found it neceſſary to raiſe and levie Forces for defence of the Proteſtant Religion, Our Perſon, the two Houſes of Par<g ref="char:EOLhyphen"/>liament, the Lawes of the Land the Liberty and Property of the Subject, and Priviledges of Parliament,</hi>
+            </p>
+            <p>
+               <hi>O Dens bone!</hi> have either Houſes of Parliament, or any of the <hi>major</hi> and <hi>Orthodox Partie</hi> gone about to raiſe any Forces <hi>againſt,</hi> but <hi>for the defence of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, the Kings perſon, their owne ſacred two Houſes, Pro<g ref="char:EOLhyphen"/>perty of the Subject, and Priviledges of Parliament?</hi> If there be any ſuch among them, as ſome Tares will al<g ref="char:EOLhyphen"/>wayes be found amongſt the fineſt Corne; If, I ſay, there be any ſuch Monſters of men amongſt them that goe a<g ref="char:EOLhyphen"/>bout to enſlave them-ſelves and their Poſterity, let them
+<pb n="4" facs="tcp:156084:3"/>be accurſed with <hi>Anathoma Maranatha,</hi> and to this curſe no doubt but all good men will ſay <hi>Amen.</hi> Indeed we are not ignorant that not a few Members of both Houſes proving falſe to their Countries (that have put their truſt or confided in them for good) are for their ſeverall ends, like Renegadoes, run away and become the <hi>Malevolent and Malignant partie,</hi> ſuch as hate Religion in its puri<g ref="char:EOLhyphen"/>tie and the power thereof, and the peace of the State and Common-wealth; for as the Scripture ſaith, <hi>The way of peace</hi> (the wicked) <hi>they have not knowne.</hi>
+            </p>
+            <p>The ſaid great Commiſſioner by his ſaid large Commiſ<g ref="char:EOLhyphen"/>ſion of Array is <hi>commanded and charged to conduct and lead all ſuch his Majesties ſubjects Arrayed, tryed, and Armed, as well men of Armes as other Horſemen, Archers &amp; Foot<g ref="char:EOLhyphen"/>men of all kinds of degrees, meet and apt for the Warre againſt all and ſingular Enemies, Rebels and Traytors and their ad<g ref="char:EOLhyphen"/>herents, attempting any thing againſt Vs, Our Crowne and Dignity, &amp;c.</hi> for ſo run the very words.</p>
+            <p>Verily, if any ſuch <hi>ſingular Enemies Rebels and Traytors, and their Adherents be to be found,</hi> they are not the right Noble Earle of <hi>Eſſex</hi> and his adherents, his Excellencie being appointed Captaine Generall by both the Honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament, which were to make both the Houſes Enemies, Rebels, and Traytors, who are the Re<g ref="char:EOLhyphen"/>preſentative Body of the Kingdome, and the Worthies of our <hi>Engliſh Iſrael,</hi> which is moſt abſurd to thinke or be<g ref="char:EOLhyphen"/>leeve by any moderate minded Chriſtian; but in very deed, the very Enemies, <hi>Rebels and Traytors,</hi> are the <hi>Ma<g ref="char:EOLhyphen"/>lignant party:</hi> And his Majeſties Army is too well known to conſiſt (for the moſt part) of Papiſts, Athieſts, or Liber<g ref="char:EOLhyphen"/>tines, amongſt whom muſt be found thoſe <hi>Enemies, Re<g ref="char:EOLhyphen"/>bels and Traytors,</hi> and they having purchaſed the name of <hi>Cavaliers,</hi> doe glory in it, and for the moſt part, they are fearefull and moſt execrable <hi>Damne-me</hi> Swearers, which fearefull execration they never would once uſe, much leſſe not uſually and often uſe; if they had any Religion, feare
+<pb n="5" facs="tcp:156084:3"/>of God, or ſparke of Grace in them, and did conſider the Word of God in the ſacred Scripture denounced againſt all wicked and reſolved ordinary prophane men, <hi>whoſe Damnation ſleepeth not:</hi> they J ſay, doubtleſſe would not ſo often invocate Almighty God to aggravate and accele<g ref="char:EOLhyphen"/>rate their Damnation. But to leave all ſuch to their deſired, doome of Damnation.</p>
+            <p>The ſaid <hi>Commiſſion of Array</hi> hath ſuch a large extent, that if put in Execution, it overthrowes and deſtroyes all the fundamentall Lawes of the Land and Liberty of the Subject, of the Commone eſpecially, and brings all to be involved in Warre, thraldome and ſlavery: and not into a defenſive Warre againſt any forraigne Enemy, but a Ci<g ref="char:EOLhyphen"/>vill and unheard of inteſtine Warre and Blood-ſhedding amongſt our ſelves. And his Majeſties wicked Councell the better to confirme and ſtrengthen the ſaid Commiſſi<g ref="char:EOLhyphen"/>ons of <hi>Array,</hi> have cauſed him to ſet up his <hi>Standard-Royall</hi> as it is called: whereby what elſe is but a Flag of Defiance and a denunciation of open Warre and Hoſtility with his <hi>Parliament,</hi> the great Councell of Him and his Kingdome, and His moſt faithfull religious and loyall Subjects: and never was any Standard ſet up ſince K. <hi>Richard</hi> the third, againſt the lawfull Competitour for the Crowne <hi>Henry</hi> Earle of <hi>Richmond,</hi> in all the Haleyon Reignes of <hi>Henry</hi> the 8. <hi>Edward</hi> the 6. Queene <hi>Elizabeth,</hi> and King <hi>Iames.</hi> But what ill ſucceſſe the Marquiſſe of <hi>Hertford</hi> and other great Lords and Commiſſioners of the Malignant-party have had in attempting to put the aforeſaid Commiſſion of <hi>Ar<g ref="char:EOLhyphen"/>ray</hi> in Execution is well known daily to the Hon: Houſes of Parliament, and to be ſeene by every ordinary obſer<g ref="char:EOLhyphen"/>vant Eye in our printed weekly Diurnals, —</p>
+            <q>Sit<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tota Britannia Teſtis.</q>
+            <p>The Lord <hi>Strange,</hi> who is a main man of the Malignant party and a great Commiſſioner in the ſaid illegall Com<g ref="char:EOLhyphen"/>miſſion for divers Counties, gives out a <hi>Warrant, to all and every the High Conſtables in the Hundred of</hi> Amounderves
+<pb n="6" facs="tcp:156084:4"/>
+               <hi>in</hi> Lancaſhire, <hi>for putting the ſaid Commiſſion in Execution,</hi> The Copie of which his Warrant is as followeth here in<g ref="char:EOLhyphen"/>ſerted, with the Animadverſions or marginall Notes of ſome ingenuous as ingenious Parliament-proofe-Pen-man, And it is a <hi>Strange</hi> Warrant from a <hi>Strange</hi> Nobleman.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <head>A true Copie of the Lord STRANGE his <hi>Warrant,</hi> for putting in execution the Illegall Commiſſion of <hi>Array</hi> in <hi>Lancaſhire.</hi>
+                        </head>
+                        <opener>
+                           <salute>To all and every the High Conſtables in the Hundred of <hi>Amounderves.</hi>
+                           </salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">W</seg>Hereas his Majeſty by his Proclamation dated at <hi>Yorke</hi> the <hi>12.</hi> day of Auguſt laſt, hath declared; That an Army of Horſe and Foot is in a<note n="(a)" place="margin">That is a lye.</note> Rebellious manner raiſed in the South parts of this Kingdome by<note n="(b)" place="margin">The Co<g ref="char:cmbAbbrStroke">̄</g>
+                              <g ref="char:EOLhyphen"/>miſſioners of Array may ap<g ref="char:EOLhyphen"/>ply that to the<g ref="char:cmbAbbrStroke">̄</g>
+                              <g ref="char:EOLhyphen"/>ſelves.</note> ill affected perſons who are now Trayterouſly and Rebelliouſly marching in Battaile-Array againſt his Majeſty, contrary to their duty and allegiance, and that he intended upon Munday being the <hi>22.</hi> of <hi>Auguſt,</hi> to ſet up his <hi>Standard Royall:</hi> and whereas his Majeſty by his Commiſſion under his Highneſſe great Seale, hath authorized and appointed me Lieutenant Generall of this and other Counties, to raiſe forces of Horſe and foot Souldiers, to attend his Majeſty, for the defence of his Majeſty and the true<note n="(c)" place="margin">Here let the world judge whether Pa<g ref="char:EOLhyphen"/>piſts will de<g ref="char:EOLhyphen"/>fend the true Proteſtant Re<g ref="char:EOLhyphen"/>ligion, &amp; whe<g ref="char:EOLhyphen"/>ther baſe and beggerly Ca<g ref="char:EOLhyphen"/>valeers that have nothing to loſe, but <gap reason="illegible" resp="#OXF" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> themſelves, by ruines) will maintaine the Sub<g ref="char:EOLhyphen"/>jects <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>, and property, and whether <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> (that are great incendiaries) would maintaine the being of Parliaments, that dare not looke the Parliament in the face.</note> Proteſtant Religion, their Liberties, Properties,
+<pb n="7" facs="tcp:156084:4"/>and the very being of Parliaments; Theſe are to re<g ref="char:EOLhyphen"/>quire and Command you, that you ſummon and warne all Knights, Eſquires, Gentlemen and Free-holders, within your ſeverall diviſions, chargeable with Armes and all ſuch as are of ability to provide and maintain Armes, and are well affected to his Maieſties ſervice<note n="(d)" place="margin">If they be not Popiſh Recuſants, they may thank the Pope for it, who hath gi<g ref="char:EOLhyphen"/>ven diſpenſati<g ref="char:EOLhyphen"/>ons to take the Oath of Allea<g ref="char:EOLhyphen"/>giance and Su<g ref="char:EOLhyphen"/>premacy, that they might doe the more hurt with leſſe ſuſ<g ref="char:EOLhyphen"/>pition.</note> (Popiſh Recuſants alwayes excepted) that they be at <hi>Preſton</hi> upon Tueſday being the <hi>23.</hi> of <hi>Auguſt,</hi> by <hi>10.</hi> of the clocke of the fore-noone, where I intend if it pleaſe God to be there, further to acquaint them with the particulars of his Maieſties Commands, and to conferre and adviſe with them of the beſt and ſpeedieſt way to advance and further his Maieſties Service in this behalfe, which I doubt not, but<note n="(e)" place="margin">I hope and beleeve all good Subjects will not.</note> all good Sub<g ref="char:EOLhyphen"/>iects will readily and willingly performe, and that they will in the meane time conſider and take into their thoughts, what ayde or aſſiſtance they or their neighbours, tenants and freinds can and will by their meanes yeeld to his <hi>Majeſty</hi> in this needfull occaſion, and will prepare to have the ſame in readineſſe: faile not as you tender his <hi>Majeſties</hi> Service, and will Anſwer the contrary at your perils.</p>
+                        <closer>
+                           <dateline>Given under my hand and Seale, at my Mannor of <hi>Lathum</hi> 
+                              <date>this 17. of <hi>Auguſt,</hi> An. Dom. 1642.</date>
+                           </dateline>
+                           <signed>James Strange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>We that have read the Chronicles and Hiſtories of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> did never read that ſuch a Commiſſion was made or granted, nor that ever any King in this our <hi>Fairie-Land</hi> did ever cauſe Armes to be leavyed and taken up
+<pb n="6" facs="tcp:156084:5" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:156084:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:156084:6"/>with ſuch a large extent againſt his owne Loyall Subjects, His Bowells the two Houſes of Parliament, <hi>&amp;c.</hi> God for his mercy ſake grant peace, <hi>Amen.</hi>
+            </p>
+            <p>And now, albeit both the Houſes of Parliament, the Kings greate Councell, and the Repreſentative Body of <hi>England;</hi> Their ſo ſolid, and ſerious Voting, Declaring, and Demonſtrating this afore-ſaid Commiſſion of <hi>Array,</hi> to be illegall and deſtructive. And Learned Mr. Serjeant <hi>Wild,</hi> Recorder of <hi>Worceſter,</hi> (and a Member of the Houſe of Commons) his publike confutation thereof; We are not ignorant that ſome of the Cabinet or Cavalier-Coun<g ref="char:EOLhyphen"/>cell have pumped hard, and moſt notoriouſly abuſed His Majeſty and the Lawes, (unto which He is ſworne) to ſet out in Print in his name, ſo many ſheets (about eight) of paper, <hi>The Booke entituled (pretending) to ſhew the legali<g ref="char:EOLhyphen"/>tie of the Commiſſion of Array.</hi>
+            </p>
+            <p>And we are not out of hope but ſome of us may live to ſee ſuch Apoſtate Iudges, and Achitophell Councell as have cauſed his Majeſty to create the ſaid Commiſſion of <hi>Ar<g ref="char:EOLhyphen"/>ray,</hi> and to prate the legallity thereof, to have Chiefe Juſtice <hi>Triſſilian</hi> his Fate, either upons barren <hi>Heath,</hi> a high <hi>Banke,</hi> or up <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lborne,</hi> as farre as <hi>Tyborne;</hi> nor can we exempt the nimble tongu'd Chequer-Baron. Yea, though they never ſo long <hi>Hide</hi> themſelves as <hi>Triſſilian</hi> did under the Kings winges, having King <hi>Richard</hi> the ſecond (that unhappy and unfortunate Prince) for his Lord and Maſter: And I never thinke of the late Lord Major of <hi>London</hi> Sir <hi>Richard Gurney,</hi> but we call to minde Sir <hi>Ni<g ref="char:EOLhyphen"/>cholas Brembre</hi> Lord Major of <hi>London</hi> in the ſaid unhappy Kings reigne.</p>
+            <p>We hope by this time ſufficient is ſaid for <hi>the Arraign<g ref="char:EOLhyphen"/>ment and condemnation of the Commiſsion of Array.</hi>
+            </p>
+            <p>By the next yee are like to ſee the illegality of his Ma<g ref="char:EOLhyphen"/>jeſties late erecting His Standard.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
